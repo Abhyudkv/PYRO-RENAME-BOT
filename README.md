@@ -17,7 +17,7 @@
 
 ### DEPLOYEMENT SUPPORT
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/0ZJChq)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/z6AjcW)
 
 <details><summary>Deploy To Railway</summary>
 <p>
