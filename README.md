@@ -2,6 +2,7 @@
 
 #  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/H9f-pm)
 
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
